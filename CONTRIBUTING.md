@@ -93,7 +93,6 @@ Each notebook should include:
    - Check that external dependencies install properly
 
 2. **Update Documentation**
-   - Add your notebook to the README.md examples section
    - Include brief description of the analysis
    - Update any relevant table of contents
 
@@ -101,7 +100,6 @@ Each notebook should include:
    - Use a descriptive title
    - Include detailed description of your contribution
    - Reference any related issues
-   - Add screenshots of key visualizations
 
 ### Pull Request Template
 
@@ -131,14 +129,12 @@ Brief description of the contribution and its purpose.
 - [ ] Data integration
 - [ ] Interactive visualizations
 - [ ] API connectivity
-- [ ] Collaborative workflows
 - [ ] Other: ___________
 ```
 
 ## Code Review Process
 
 1. **Automated Checks**: Basic syntax and formatting validation
-2. **Peer Review**: Community members review for quality and clarity
 3. **Maintainer Review**: Final review by repository maintainers
 4. **Testing**: Verification that notebooks execute successfully
 

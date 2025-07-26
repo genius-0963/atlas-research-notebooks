@@ -4,9 +4,12 @@
 
 # %% [markdown]
 # ## Install Required Packages
-
-# %%
-# !pip install -q ccxt pandas numpy matplotlib seaborn
+# 
+# **Run this command first in a cell, then restart kernel:**
+# 
+# ```
+# pip install -q ccxt pandas numpy matplotlib seaborn
+# ```
 
 # %% [markdown]
 # ## Import Libraries

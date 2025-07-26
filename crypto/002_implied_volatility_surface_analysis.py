@@ -8,9 +8,12 @@
 
 # %% [markdown]
 # ## Install Required Packages
-
-# %%
-# !pip install ccxt numpy pandas matplotlib seaborn scipy plotly
+# 
+# **Run this command first in a cell, then restart kernel:**
+# 
+# ```
+# pip install ccxt numpy pandas matplotlib seaborn scipy plotly
+# ```
 
 # %% [markdown]
 # ## Import Libraries

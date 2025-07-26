@@ -4,7 +4,7 @@ A collection of open source sample codes and research notebooks created using th
 
 ## About Atlas Research
 
-Atlas Research is a powerful platform that enables researchers, developers, and analysts to:
+Atlas Research enables researchers, developers, and analysts to:
 
 - **Prototype Code**: Rapidly develop and test ideas in interactive environments
 - **Data Wrangling**: Clean, transform, and analyze complex datasets
@@ -17,7 +17,6 @@ Atlas Research is a powerful platform that enables researchers, developers, and 
 ```
 atlas-research-notebooks/
 ├── crypto/                 # Cryptocurrency analysis and trading strategies
-│   ├── 001_crypto_correlation.ipynb
 │   └── 001_crypto_correlation.py
 ├── bioinformatics/         # Bioinformatics research and analysis
 ├── machine-learning/       # ML models and experiments
@@ -62,7 +61,7 @@ These notebooks demonstrate key capabilities of the atlas-research.io platform:
 
 - Built with the Atlas Research platform
 - Powered by open source libraries including Jupyter, pandas, matplotlib, and many others
-- Community contributions from researchers and developers worldwide
+
 
 ---
 
