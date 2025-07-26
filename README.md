@@ -17,9 +17,13 @@ Atlas Research enables researchers, developers, and analysts to:
 ```
 atlas-research-notebooks/
 ├── crypto/                 # Cryptocurrency analysis and trading strategies
-│   └── 001_crypto_correlation.py
+│   ├── 001_crypto_correlation.py
+│   ├── 002_implied_volatility_surface_analysis.py
+│   └── 003_volume_profile_market_regime.py
 ├── bioinformatics/         # Bioinformatics research and analysis
 ├── machine-learning/       # ML models and experiments
+├── CONTRIBUTING.md         # Contribution guidelines
+├── LICENSE                 # MIT License
 └── README.md
 ```
 
