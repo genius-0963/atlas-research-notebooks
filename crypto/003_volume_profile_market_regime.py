@@ -46,11 +46,9 @@
 # %%
 # Import required libraries
 import warnings
-from datetime import datetime, timedelta
+from datetime import timedelta
 import seaborn as sns
 import matplotlib.dates as mdates
-from matplotlib.patches import Rectangle
-import matplotlib.patches as patches
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
